@@ -28,7 +28,7 @@ const AnalogClockWithOuterSchedule = () => {
 
   return (
     <div className="outer-container ">
-      <h2 style={{ margin: 10 }}>JADWAL Kerja Kyouka!</h2>
+      <h2 style={{ margin: 10 }}>JADWAL Kerja Guntur!</h2>
       <p style={{ margin: 0 }}>
         <i>Inspired by Bae Seok Ryu - Love Next Door</i>
       </p>
@@ -200,7 +200,7 @@ const AnalogClockWithOuterSchedule = () => {
           font-size: 14px;
         }
       `}</style>
-    </div>
+	</div>
   );
 };
 
